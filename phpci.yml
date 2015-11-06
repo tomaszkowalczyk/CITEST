@@ -6,7 +6,7 @@ build_settings:
     mysql:
         host: "localhost"
         user: "root"
-        pass: ""
+        pass: "J<.gMg#iD|np]5E"
 
 setup:
     mysql:
@@ -38,5 +38,5 @@ complete:
     mysql:
         host: "localhost"
         user: "root"
-        pass: ""
+        pass: "J<.gMg#iD|np]5E"
         
