@@ -39,4 +39,4 @@ complete:
         host: "localhost"
         user: "root"
         pass: ""
-        - "DROP DATABASE IF EXISTS test;"
+        
